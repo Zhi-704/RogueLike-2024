@@ -1,0 +1,23 @@
+# Operating System Files
+*.DS_Store
+
+# Virtual Environment
+.venv
+
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache
+
+# Project Data
+*.csv
+*.json
+*.ipynb
+*.txt
+*.pdf
+
+# Relevant files
+!requirements.txt
