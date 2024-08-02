@@ -1,4 +1,4 @@
-#!/usr/bin/env python3 haha
+#!/usr/bin/env python3
 import tcod
 
 from actions import EscapeAction, MovementAction
