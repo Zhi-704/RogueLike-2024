@@ -42,7 +42,6 @@ class RectangularRoom:
 
 
 def place_entities(
-    room: RectangularRoom, dungeon: GameMap, maximum_monsters: int,
     room: RectangularRoom, dungeon: GameMap, maximum_monsters: int, maximum_items: int
 ) -> None:
     number_of_monsters = random.randint(0, maximum_monsters)
