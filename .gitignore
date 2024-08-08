@@ -21,3 +21,6 @@ __pycache__/
 
 # Relevant files
 !requirements.txt
+
+# Saved games
+*.sav
